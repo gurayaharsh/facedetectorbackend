@@ -19,8 +19,7 @@ const db = knex({
       ssl: true
     }
   })
-
-  db.connect();
+  
 
 app.get('/', (req,res) => {
     res.json(db.users);
