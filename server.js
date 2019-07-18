@@ -20,7 +20,7 @@ const db = knex({
     }
   })
 
-
+  db.connect();
 
 app.get('/', (req,res) => {
     res.json(db.users);
