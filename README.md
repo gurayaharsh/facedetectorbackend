@@ -5,7 +5,7 @@ This is the back-end of the applicaiton.
 
 ## View 
 
-A [link](face-detection-machine.herokuapp.com "View Project").
+[View Project](http://face-detection-machine.herokuapp.com "View Project").
 
 ## Technology 
 
